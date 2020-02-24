@@ -1,0 +1,120 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/4.6a4503a11bdf105254e1.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.2a34cec0525d75fd47ab.js",
+        "/polyfills.681b44b3f292a3819611.js",
+        "/runtime.4a4153c26f50ff2e5647.js",
+        "/styles.a2b6c520092980289179.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/ad-banner/react.jpg",
+        "/assets/ad-banner/wide.jpg",
+        "/assets/favicon/cropped-IMG_20181218_160017_096-180x180.jpg",
+        "/assets/favicon/cropped-IMG_20181218_160017_096-192x192.jpg",
+        "/assets/favicon/cropped-IMG_20181218_160017_096-32x32.jpg",
+        "/assets/icons/database-solid.svg",
+        "/assets/icons/default_image.svg",
+        "/assets/icons/face_down.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/js-square-brands.svg",
+        "/assets/icons/share.svg",
+        "/assets/icons/typescript.svg",
+        "/assets/icons/user-ninja-solid.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-performance",
+      "patterns": [
+        "https:\\/\\/gyanparkash\\.in\\/wp-site\\/app\\/wp-admin\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "version": 1
+    },
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "https:\\/\\/gyanparkash\\.in\\/wp-site\\/app\\/wp-admin\\/admin-ajax\\.php\\?action=get_post_archive",
+        "https:\\/\\/gyanparkash\\.in\\/wp-site\\/app\\/wp-admin\\/admin-ajax\\.php\\?action=get_recent_posts"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/4.6a4503a11bdf105254e1.js": "2627791f8f3f23b31440121980cb680beb1eccef",
+    "/assets/ad-banner/react.jpg": "4533c16fb2785e6dce75096fc2689ed8fa15b6b4",
+    "/assets/ad-banner/wide.jpg": "4c6080e314d408dc15ad48394a393e2c3485fbe0",
+    "/assets/favicon/cropped-IMG_20181218_160017_096-180x180.jpg": "39478ae4f6405b57805f09f9bfd1d6fe09c1b3ef",
+    "/assets/favicon/cropped-IMG_20181218_160017_096-192x192.jpg": "57534ecc147550f15b0b81b79a1260757fe35bc1",
+    "/assets/favicon/cropped-IMG_20181218_160017_096-32x32.jpg": "48db1f4618cc28c1a65483b5934a5b13d350ba41",
+    "/assets/icons/database-solid.svg": "89312e0adcbb3cd05627c0bcb9baa8313cecf350",
+    "/assets/icons/default_image.svg": "990b362dc11f6b585bec36012a9337202517258e",
+    "/assets/icons/face_down.svg": "b4cc7b86af1ae83ce5305ed592315898c796933d",
+    "/assets/icons/icon-128x128.png": "f0014b265f1fac8cd5b5e4300f01753c4047be65",
+    "/assets/icons/icon-144x144.png": "1c7f3499803a650c7cb5e81ad1b0174987b01b14",
+    "/assets/icons/icon-152x152.png": "4cb177bfd8b92638a7f5fa9bdc224f22f4d0787b",
+    "/assets/icons/icon-192x192.png": "adf12269b15e817387e3b2e2b11a67e5d7ae28f5",
+    "/assets/icons/icon-384x384.png": "035e6cd653594b086bcbb1aff5794f3df9905fc1",
+    "/assets/icons/icon-512x512.png": "12686bde34acfe2a40cda405cbcbfbf39f30cdaf",
+    "/assets/icons/icon-72x72.png": "bad47d3c8e4e40501ea98d07abb7ebfea5931de4",
+    "/assets/icons/icon-96x96.png": "b10e03c67a28c496ae0ed1bfd57ca98eaaeeaebc",
+    "/assets/icons/js-square-brands.svg": "950b82c13f97d84a7484dd02977d1dfee3ffb221",
+    "/assets/icons/share.svg": "f66e5cc30dd8c2eea8740727ddfa5e79f6332bc6",
+    "/assets/icons/typescript.svg": "79f9c67745f22562885c7f83af4007228d2bb3fd",
+    "/assets/icons/user-ninja-solid.svg": "d8b64006366d8a9a47e4f5081a1fadcdbc9f2486",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "76de6574fa9b2a29fea705fd32b5576675317a96",
+    "/main.2a34cec0525d75fd47ab.js": "5bf8cf7dc8a1c750663677b1e984c1a8ef96f033",
+    "/polyfills.681b44b3f292a3819611.js": "4ab98e11e44c4bc97507dfc711f8420a47d6f18e",
+    "/runtime.4a4153c26f50ff2e5647.js": "79ae27892b22ee9a5491d6467947a3fc1dce0cae",
+    "/styles.a2b6c520092980289179.css": "07358d99e01b3325d707084fe0cb24eea70c6bfb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
