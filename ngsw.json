@@ -1,0 +1,153 @@
+{
+  "configVersion": 1,
+  "timestamp": 1702601503582,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/200.fe68b75317d838a7.js",
+        "/367.bbb1dfb896e2846f.js",
+        "/976.baec9d958a738ac0.js",
+        "/common.cf845c874c2c5967.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.3e286e7e1d0fc37c.js",
+        "/manifest.webmanifest",
+        "/polyfills.7139af86c07073fd.js",
+        "/runtime.687dbbae1731c45a.js",
+        "/styles.7cda431b599d1786.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/album.svg",
+        "/assets/artist.svg",
+        "/assets/folder.svg",
+        "/assets/icons/add.svg",
+        "/assets/icons/add_folder.svg",
+        "/assets/icons/brush.svg",
+        "/assets/icons/cast.svg",
+        "/assets/icons/color.svg",
+        "/assets/icons/delete.svg",
+        "/assets/icons/folder.svg",
+        "/assets/icons/heart.svg",
+        "/assets/icons/home.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/like.svg",
+        "/assets/icons/list.svg",
+        "/assets/icons/max.svg",
+        "/assets/icons/menu.svg",
+        "/assets/icons/min.svg",
+        "/assets/icons/more.svg",
+        "/assets/icons/music.svg",
+        "/assets/icons/next.svg",
+        "/assets/icons/pause.svg",
+        "/assets/icons/play.svg",
+        "/assets/icons/prev.svg",
+        "/assets/icons/repeat.svg",
+        "/assets/icons/search.svg",
+        "/assets/icons/settings.svg",
+        "/assets/icons/shuffle.svg",
+        "/assets/icons/shuffle_light.svg",
+        "/assets/icons/shuffle_on.svg",
+        "/assets/icons/sync.svg",
+        "/assets/icons/video.svg"
+      ],
+      "patterns": [
+        "\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/200.fe68b75317d838a7.js": "a4911fe8b0ee65dbd78d6caecf01ed3440dd83d0",
+    "/367.bbb1dfb896e2846f.js": "14e570c1d69b0f4ab324ab0e7a996ed40ddc77a9",
+    "/976.baec9d958a738ac0.js": "5ebe034d1a8550d320bfe6f9c31ad70581a4fc96",
+    "/assets/album.svg": "ea8f0bfe533e86d2cae31bedd6cb52fe4e296e20",
+    "/assets/artist.svg": "58e36aee1d95d28215ac128f690db1759258c997",
+    "/assets/folder.svg": "8138314156e814675a51a6cdfa1cbd96ce88c2bf",
+    "/assets/icons/add.svg": "9920e468f57cd0f98e7f9945d170e50af85548fc",
+    "/assets/icons/add_folder.svg": "94ec5a36aa3619df3135357e6c8bb769138fcc6d",
+    "/assets/icons/brush.svg": "91ef873dddad6681236d06b3801cd9661e1677e4",
+    "/assets/icons/cast.svg": "23ad760f0cbf892301e3bab03538268a7bd11f04",
+    "/assets/icons/color.svg": "d5a5e377b5203bd2a62f94ea8dad4afc4eb082e2",
+    "/assets/icons/delete.svg": "a389f60b807e53d078baad45587b4c6ab2e62646",
+    "/assets/icons/folder.svg": "f48d9138a54d254cf92e030eed09a51b0a4492f1",
+    "/assets/icons/heart.svg": "9fbad5c7153db4fc4ce78ee5d523fdb79370eadb",
+    "/assets/icons/home.svg": "9d17fb0785b6ae5fb315def7b73df196f6e90baf",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/icons/like.svg": "d91b704678b3f680282b82fe0f372d9b0fefa892",
+    "/assets/icons/list.svg": "9d97c79811449b0b32c1c17a0b612ea444e34e62",
+    "/assets/icons/max.svg": "fcf04055fe03b596eee94a105b231f1c79eb3d97",
+    "/assets/icons/menu.svg": "3e84df7ca6b9778a48f2dbe0a8f8d0d5fec9f8ba",
+    "/assets/icons/min.svg": "219fe839c1f1cfe9d0c0c0ed32fd0403ff0be88d",
+    "/assets/icons/more.svg": "0f9c53afb687765191def545de7d2b63d7a7492d",
+    "/assets/icons/music.svg": "04389a48f1ed030c25ce1a4a557c3d4fa75894fc",
+    "/assets/icons/next.svg": "ab424841d4f80c3c28b72b7186f33886e5894171",
+    "/assets/icons/pause.svg": "dc6e920a3f26aa1b6ccfb8a4f97d53cd0c1b028f",
+    "/assets/icons/play.svg": "6cd6d20bbad21e76f2d1e679228ef2accc28c3f6",
+    "/assets/icons/prev.svg": "9bb4dd92bf15f43a2b006d5a9aae4a970529c2e0",
+    "/assets/icons/repeat.svg": "7d4f425f84222e29ca559c88ea9254e19896d112",
+    "/assets/icons/search.svg": "2f0d000571780f3fac5668bd2edca27c1de49af4",
+    "/assets/icons/settings.svg": "9ffedd516c9c9f0327d84bbf9821306fe8058df3",
+    "/assets/icons/shuffle.svg": "171ca454c69916910e972dcf1137a581dc74c6c6",
+    "/assets/icons/shuffle_light.svg": "5a54337a91f4be5f0b3d2998059f7f22f0e5daae",
+    "/assets/icons/shuffle_on.svg": "15d33f8493eefb22d71e099d7e98575f37dadb88",
+    "/assets/icons/sync.svg": "430ba2fa39cd78f0cec4db25dbca9dfc63363b6d",
+    "/assets/icons/video.svg": "504330ba12d920e3756edc37e4659991a41db1b8",
+    "/common.cf845c874c2c5967.js": "a73e9d1c5708fa4f8f561be2d1d56359c0186c19",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "6b3ad7639c46db571add5ab4253dd210818e078b",
+    "/main.3e286e7e1d0fc37c.js": "a2df2ad11c6f359a665806d245fabb733c36b289",
+    "/manifest.webmanifest": "948625ec3487f01b56d2df7e502a10d173ced7c1",
+    "/polyfills.7139af86c07073fd.js": "0b5954c1d2ebcb96bf2026f08f0a167a26e19262",
+    "/runtime.687dbbae1731c45a.js": "872d72c903071da6ddc36a871f290b116e466780",
+    "/styles.7cda431b599d1786.css": "772dac06a441339df3e4f7816c5ba2d7a5ef0c07"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
